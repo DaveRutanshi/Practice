@@ -2,4 +2,4 @@
 This Is My First Git Repository.
 
 
-Author - Dave Rutanshi
+Author - Rutanshi Dave
